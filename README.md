@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hecwik
 - 👀 I’m interested in my pets, guitars, travels, having fun with friends & family
-- 🌱 I’m currently learning JavaScript, HTML5 and CSS
+- 🌱 I’m currently learning C#, JavaScript
 - 💞️ I’m looking to collaborate on just anything
 - 📫 How to reach me: heckee@gmail.com
 
