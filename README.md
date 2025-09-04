@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hecwik
-- 👀 I’m interested in my pets, guitars, travels, having fun with friends & family
-- 🌱 I’m currently learning C#, JavaScript, Java
-- 💞️ I’m looking to collaborate on just anything
+- 👀 I’m interested in all things science, my family, my friends, doing good work etc!
+- 🌱 I’m currently learning PowerShell 7, C++ and whatever falls into my lap...
+- 💞️ I’m looking to collaborate on anything really, source code for games, .NET products..
 - 📫 How to reach me: heckee@gmail.com
 
 <!---
